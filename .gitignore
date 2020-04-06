@@ -1,0 +1,11 @@
+cofundie-master
+cofundie-frontend
+node_modules
+public
+src
+craco.config.js
+jsconfig.json
+README.md
+yarn.lock
+package.json
+.vscode
