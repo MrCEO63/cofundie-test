@@ -87,19 +87,19 @@ const Navbar = props => {
           </Link>
           <ul>
             <li>
-              <a href={`${process.env.REACT_APP_HOST}/about-us`}>About</a>
+              <a href="https://www.cofundie.com/about-us">About</a>
             </li>
             <li>
-              <a href={`${process.env.REACT_APP_HOST}/faq`}>FAQ</a>
+              <a href="https://www.cofundie.com/faq">FAQ</a>
             </li>
             <li>
               <a href="https://realsights.cofundie.com/" target="_black">Realsights Blog</a>
             </li>
             <NavButton bg="white" borderColor={COLORS.BLUE} color={COLORS.BLUE}>
-              <a href="https://app.cofundie.com/login">Get Started</a>
+              <a href="https://app.cofundie.com">Get Started</a>
             </NavButton>
             <li>
-              <a href="https://app.cofundie.com/login">Sign in</a>
+              <a href="https://app.cofundie.com">Sign in</a>
             </li>
           </ul>
         </>
